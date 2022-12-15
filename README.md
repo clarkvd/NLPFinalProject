@@ -7,6 +7,19 @@ Minh Le
 Dylan Leddy
 Ryan Clark
 
+Primary Libraries Used: 
+- NLTK 
+- Pandas
+- Scikit (Classification Models) 
+- OpenML (API for downloading dataset) 
+- NumPy 
+- Transformers (Autotokenizer, DistilBERT) 
+- Datasets  
+- Genism (Wordtovec) 
+
+Please see HuggingFace's DistilBERT for more information about distilBERT:  
+https://huggingface.co/docs/transformers/model_doc/distilbert 
+
 Files:
 - NLP Final Project: Classification - Shows how we formatted our data, set up word2vec embeddings, 
   then fit our data into different baselines and clasffifiers.
