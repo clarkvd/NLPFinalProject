@@ -37,6 +37,10 @@ Vivienne:
 - Helped with the implementation of BERT, such as researching the right model and fine-tuning parameters 
 
 Ryan: 
+- Took our data and made them into word embeddings so that we could fit them into models.
+- Found predicted vs expected results for 5 different models (GaussianNB, SGD, Logistic Regression, MLP, KNN)
+- Using these models, found the trend between genre and valence.
+- Helped with the implementation of BERT, such as formatting the data into dataframes/csv files so that BERT accepted our data.
 
 Minh: 
 - Found datasets from openML
