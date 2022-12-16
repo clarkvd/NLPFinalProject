@@ -48,4 +48,7 @@ Minh:
 - Did some fine tuning on logistic regression and KNN models
 - Created graphs to visualize data in 3d space and view error rate as we changed regularization constant for logisitic regression and k for knn models
 
-Dyan: 
+Dylan: 
+- Helped with the research and implementation of BERT (data formatting, debugging)
+- Implemented SGD classifier
+- Assisted Ryan with training and evaluation of models
