@@ -26,7 +26,7 @@ Files:
 - NLP Final Project: LM - Shows how fit our data into language models like BERT in order to attempt 
   to improve accuracy. In this file we ran bert 4 times.  Once with pop as a genre, once without.
   Once with 5 valence bins, once with 2.
-- NLP Final Project: Fine Tuning - Shows how we picked value for KNN model and regrularized for Logistic regression.
+- NLP Final Project: Fine Tuning - Shows how we picked value for KNN model and regularized for Logistic regression.
   
 Contribution Statement: 
 
